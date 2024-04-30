@@ -9,7 +9,9 @@ ABOUT US
  OBJECTIVE
  
   Our goal is to design, build, and program a self-driving car that can navigate a series of challenges autonomously. Through this competition, we aim to demonstrate our skills in robotics, programming, and problem-solving, while also learning and growing as future engineers.
-Repository Structure
+
+REPOSITORY  STRUCTURE 
+
   * Documentation: Contains our research findings, design decisions, and technical specifications.
   * Code: Houses our software codebase, including scripts, algorithms, and firmware.
   * Resources: Stores useful references, datasets, and external libraries.
