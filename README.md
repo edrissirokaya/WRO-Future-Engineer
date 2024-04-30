@@ -13,7 +13,7 @@ ABOUT US
 REPOSITORY  STRUCTURE 
 
   * Documentation: Contains our research findings, design decisions, and technical specifications.
-  * Code: Houses our software codebase, including scripts, algorithms, and firmware.
+  * Code: Houses our software codebase.
   * Resources: Stores useful references, datasets, and external libraries.
   * Media: Includes images and videos related to our project.
 
