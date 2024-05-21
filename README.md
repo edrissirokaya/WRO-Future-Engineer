@@ -17,7 +17,7 @@ REPOSITORY  STRUCTURE
   * Resources: Stores useful references, datasets, and external libraries.
   * Media: Includes images and videos related to our project.
 
-    Robot Components :
+    ROBOT COMPONENTS :
     
 * EV3 Brick: Chosen for its versatility and compatibility with LEGO Mindstorms components.
 *	Big Motors: Used for forward and backward motion, providing sufficient power to move the robot efficiently.
@@ -30,12 +30,11 @@ REPOSITORY  STRUCTURE
 *	Gyro Sensor: Implemented to simplify and improve the robot's rotational movements.
 *	Py-top Camera: Integrated for obstacle detection and environmental perception.
 
-    Software Language Used :
+    SOFTWARE LANGUAGE USED : 
 
 -	MicroPython : Used as the programming language to control the LEGO EV3 robot.. 
 
-
-    Main Features: 
+    MAIN FEATURES : 
 
 -Obstacle Detection: The Py-top camera, programmed in Python, detects obstacles using the object detection algorithm.
 -Autonomous Navigation: The robot is capable of navigating autonomously by avoiding obstacles and following color lines on the map.
