@@ -6,7 +6,7 @@
   + We are a team of passionate engineers and enthusiasts participating in the WRO Future Engineers competition. Our team consists of ROKAYA EDRISSI , DOUAE DOUKANI ,RAYANE El ALAMI  from ACTIVELABS TANGIER MOROCCO .
 .
 
-# OBJECTIVE :
+# GOALS :
  
   + Our goal is to design, build, and program a self-driving car that can navigate a series of challenges autonomously. Through this competition, we aim to demonstrate our skills in robotics, programming, and problem-solving, while also learning and growing as future engineers.
 
