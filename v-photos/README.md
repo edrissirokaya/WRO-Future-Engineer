@@ -1,4 +1,4 @@
-Team's photos
+Vehicle photo
 ====
 
-**This directory must contain 2 photos of the team (an official one and one funny photo with all team members)**
+**This directory contains six photos of the vehicle**
