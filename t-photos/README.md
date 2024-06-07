@@ -1,6 +1,6 @@
 Team's photos
 -
-*This directory  contain 2 photos of the team :*
+*this is our team's photos :*
 
 ![33567f09-dbfd-4daf-900d-4555daefeb68](https://github.com/edrissirokaya/WRO-Future-Engineer/assets/163671955/33c2640f-24f7-4b4e-a3e9-088bb41a29fc)
 
