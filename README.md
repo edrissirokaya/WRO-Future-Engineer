@@ -34,8 +34,11 @@
 **Gyro Sensor: Implemented to simplify and improve the robot's rotational movements.**
   
 **Pi-top Camera: Integrated for obstacle detection and environmental perception.**
+
+
 # 3D MODEL:
 
+![img width=554](https://github.com/edrissirokaya/WRO-Future-Engineer/assets/163671955/21a6bbce-41d0-4b17-bd81-f8167eceb497)
 
 # SOFTWARE LANGUAGE USED : 
 
