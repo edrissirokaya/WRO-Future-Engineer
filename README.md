@@ -46,8 +46,12 @@
 **Autonomous Navigation: The robot is capable of navigating autonomously by avoiding obstacles and following color lines on the map.**
 
 **Precise Control: The EV3 motors are controlled precisely to allow for smooth and accurate movements.**
+# CODE:
+---
+## OPEN CHALLENGE CODE:
 
+![img width=1455](https://github.com/edrissirokaya/WRO-Future-Engineer/assets/163671955/764615d5-563e-4b35-810f-c92070b5d59d)
 
-
+![img width=1287](https://github.com/edrissirokaya/WRO-Future-Engineer/assets/163671955/2c918307-ca8c-4430-90e8-fc0c6a4edada)
 
 
